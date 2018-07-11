@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Discrete Mathematics For Fun
 
 You can use the [editor on GitHub](https://github.com/evansMeja/Discrete-Mathematics/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
